@@ -15,7 +15,7 @@
 ### 🕹️ Boot Disk
 ```bash
 # Grab the source
-git clone https://github.com
+git clone https://github.com](https://github.com/JoshitaReddy/personal-website.git
 
 # Launch the website
 start index.html
